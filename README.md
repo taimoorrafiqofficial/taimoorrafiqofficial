@@ -40,3 +40,21 @@ I'm focused on developing practical Data Analytics skills and building projects 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
 </p>
+
+
+## 🧰 Tools I Use
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## 🤝 Connect With Me
+
+- **GitHub:** [@taimoorrafiqofficial](https://github.com/taimoorrafiqofficial)
+
+---
+<p align="center">
+  <i>Learning, building, and growing in Data Analytics.</i>
+</p>
